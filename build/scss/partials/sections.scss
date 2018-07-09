@@ -183,8 +183,20 @@ h6 {
 .section-contact h2 {
   color: #4c2b11;
   font-size: 2.25em;
+  margin-bottom: 0.25em;
+}
+@media (max-width: 992px) {
+  .section-primary h2,
+  .section-contact h2,
+  .section-secondary h2 {
+    font-size: 1.25em;
+  }
 }
 
+.section-heading {
+  max-width: 600px;
+  margin: 0 auto 2em;
+}
 
 .section-contact .mainForm {
   background-color: #fff;
@@ -195,16 +207,8 @@ h6 {
   padding: 2em;
   text-align: left;
 }
-section p {
-  margin-bottom: 1.5em;
-}
-@media (max-width: 992px) {
-  .section-primary h2,
-  .section-contact h2,
-  .section-secondary h2 {
-    font-size: 1.25em;
-  }
-}
+
+
 /* Card Components */
 .card {
   background-color: #fff;
