@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0eb45ce6-50db-4989-b1b1-ee74cd0736e5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/AGC/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/AGC/thanks-contact.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/agc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/agc/thanks-contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/layouts/homepage.html" afterPath="$PROJECT_DIR$/build/html/layouts/homepage.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/build/html/layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/build/html/layouts/homepage.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -91,8 +90,8 @@
     <handled-path value="$PROJECT_DIR$/build/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="294" />
-    <option name="y" value="110" />
+    <option name="x" value="293" />
+    <option name="y" value="109" />
     <option name="width" value="2021" />
     <option name="height" value="1204" />
   </component>
@@ -215,7 +214,7 @@
       <workItem from="1531234062806" duration="612000" />
       <workItem from="1531415805050" duration="1490000" />
       <workItem from="1531847504463" duration="516000" />
-      <workItem from="1531848221766" duration="206000" />
+      <workItem from="1531848221766" duration="254000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1531161049519</created>
@@ -287,14 +286,21 @@
       <option name="project" value="LOCAL" />
       <updated>1531848008201</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="padding changes">
+      <created>1531848434127</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1531848434127</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8127000" />
+    <option name="totallyTimeSpent" value="8175000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="294" y="110" width="2021" height="1204" extended-state="0" />
+    <frame x="293" y="109" width="2021" height="1204" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -616,7 +622,7 @@
     <entry file="file://$PROJECT_DIR$/build/html/layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -624,7 +630,7 @@
     <entry file="file://$PROJECT_DIR$/build/html/layouts/homepage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
