@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0eb45ce6-50db-4989-b1b1-ee74cd0736e5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/includes/content-index.html" afterPath="$PROJECT_DIR$/build/html/includes/content-index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/scss/partials/sections.scss" afterPath="$PROJECT_DIR$/build/scss/partials/sections.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/AGC/index.html" afterPath="$PROJECT_DIR$/web/AGC/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/app.css" afterPath="$PROJECT_DIR$/web/css/app.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sections.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sections.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build/scss/partials/sections.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2265">
-              <caret line="151" column="1" lean-forward="false" selection-start-line="151" selection-start-column="1" selection-end-line="151" selection-end-column="1" />
+            <state relative-caret-position="400">
+              <caret line="241" column="19" lean-forward="false" selection-start-line="236" selection-start-column="0" selection-end-line="246" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -39,8 +43,8 @@
       <file leaf-file-name="content-index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build/html/includes/content-index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="315">
+              <caret line="21" column="60" lean-forward="false" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -81,17 +85,65 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-5065">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1531418450000" expanded="true" signature="1479:1755" ph="&lt;IfModule mod_setenvif.c&gt;" />
+                <marker date="1531418450000" expanded="true" signature="2020:2171" ph="&lt;IfModule mod_headers.c&gt;" />
+                <marker date="1531418450000" expanded="true" signature="5086:5691" ph="&lt;IfModule mod_headers.c&gt;" />
+                <marker date="1531418450000" expanded="true" signature="6886:9840" ph="&lt;IfModule mod_mime.c&gt;" />
+                <marker date="1531418450000" expanded="true" signature="10517:11027" ph="&lt;IfModule mod_mime.c&gt;" />
+                <marker date="1531418450000" expanded="true" signature="12745:14558" ph="&lt;IfModule mod_rewrite.c&gt;" />
+                <marker date="1531418450000" expanded="true" signature="15097:15266" ph="&lt;IfModule mod_rewrite.c&gt;" />
+                <marker date="1531418450000" expanded="true" signature="16153:16346" ph="&lt;IfModule mod_rewrite.c&gt;" />
+                <marker date="1531418450000" expanded="true" signature="16943:17376" ph="&lt;IfModule mod_rewrite.c&gt;" />
+                <marker date="1531418450000" expanded="true" signature="21866:21925" ph="&lt;IfModule mod_autoindex.c&gt;" />
+                <marker date="1531418450000" expanded="true" signature="22675:22916" ph="&lt;IfModule mod_rewrite.c&gt;" />
+                <marker date="1531418450000" expanded="true" signature="23583:23905" ph="&lt;FilesMatch &quot;(^##.*##|\.(bak|conf|dist|fla|in[ci]|log|psd|sh|sql|sw[op])|~)$&quot;&gt;" />
+                <marker date="1531418450000" expanded="true" signature="25898:25982" ph="&lt;IfModule mod_headers.c&gt;" />
+                <marker date="1531418450000" expanded="true" signature="29313:29379" ph="&lt;IfModule mod_headers.c&gt;" />
+                <marker date="1531418450000" expanded="true" signature="30799:34559" ph="&lt;IfModule mod_deflate.c&gt;" />
+                <marker date="1531418450000" expanded="true" signature="35900:35958" ph="&lt;IfModule mod_headers.c&gt;" />
+                <marker date="1531418450000" expanded="true" signature="36462:39899" ph="&lt;IfModule mod_expires.c&gt;" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/agc/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-910">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1531847924000" expanded="true" signature="2325:2473" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="2325:2496" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="2535:2908" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="2574:2885" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="2962:3169" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="3014:3150" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="3244:4941" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="3276:4926" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="3500:4664" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="3549:3785" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="3588:3762" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="3834:4070" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="3873:4047" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="4119:4355" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="4158:4332" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="4404:4645" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="4443:4622" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="4699:4906" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="4751:4887" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="4992:5654" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="5024:5639" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="5248:5624" ph="..." />
+                <marker date="1531847924000" expanded="false" signature="5523:5538" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="5687:6242" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="5725:6228" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="5760:5965" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="5786:5946" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="6000:6103" ph="..." />
+                <marker date="1531847924000" expanded="true" signature="6142:6213" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,13 +159,13 @@
         <option value="$PROJECT_DIR$/build/html/includes/header.html" />
         <option value="$PROJECT_DIR$/build/assets/js/main.js" />
         <option value="$PROJECT_DIR$/build/html/includes/footer.html" />
-        <option value="$PROJECT_DIR$/build/html/includes/content-index.html" />
         <option value="$PROJECT_DIR$/build/html/includes/content-thanks-contact.html" />
-        <option value="$PROJECT_DIR$/build/scss/partials/sections.scss" />
         <option value="$PROJECT_DIR$/build/html/includes/content-index-home.html" />
         <option value="$PROJECT_DIR$/build/html/pages/AGC/index.html" />
         <option value="$PROJECT_DIR$/build/html/pages/AGC/thanks-contact.html" />
         <option value="$PROJECT_DIR$/web/agc/index.html" />
+        <option value="$PROJECT_DIR$/build/html/includes/content-index.html" />
+        <option value="$PROJECT_DIR$/build/scss/partials/sections.scss" />
       </list>
     </option>
   </component>
@@ -127,8 +179,8 @@
     <handled-path value="$PROJECT_DIR$/build/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="87" />
-    <option name="y" value="68" />
+    <option name="x" value="-2345" />
+    <option name="y" value="27" />
     <option name="width" value="2021" />
     <option name="height" value="1204" />
   </component>
@@ -183,6 +235,19 @@
             <path>
               <item name="IDfarmlife" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDfarmlife" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDfarmlife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDfarmlife" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDfarmlife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDfarmlife" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -223,7 +288,7 @@
       <workItem from="1531233397367" duration="537000" />
       <workItem from="1531234062806" duration="612000" />
       <workItem from="1531415805050" duration="1490000" />
-      <workItem from="1531847504463" duration="190000" />
+      <workItem from="1531847504463" duration="488000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1531161049519</created>
@@ -281,14 +346,21 @@
       <option name="project" value="LOCAL" />
       <updated>1531417031458</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added forms">
+      <created>1531847698063</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1531847698063</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7595000" />
+    <option name="totallyTimeSpent" value="7893000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="87" y="68" width="2021" height="1204" extended-state="0" />
+    <frame x="-2345" y="27" width="2021" height="1204" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -523,30 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/html/includes/content-thanks-contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/scss/partials/sections.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2265">
-          <caret line="151" column="1" lean-forward="false" selection-start-line="151" selection-start-column="1" selection-end-line="151" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/html/includes/content-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build/html/includes/content-index-home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -575,7 +623,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5065">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1531418450000" expanded="true" signature="1479:1755" ph="&lt;IfModule mod_setenvif.c&gt;" />
+            <marker date="1531418450000" expanded="true" signature="2020:2171" ph="&lt;IfModule mod_headers.c&gt;" />
+            <marker date="1531418450000" expanded="true" signature="5086:5691" ph="&lt;IfModule mod_headers.c&gt;" />
+            <marker date="1531418450000" expanded="true" signature="6886:9840" ph="&lt;IfModule mod_mime.c&gt;" />
+            <marker date="1531418450000" expanded="true" signature="10517:11027" ph="&lt;IfModule mod_mime.c&gt;" />
+            <marker date="1531418450000" expanded="true" signature="12745:14558" ph="&lt;IfModule mod_rewrite.c&gt;" />
+            <marker date="1531418450000" expanded="true" signature="15097:15266" ph="&lt;IfModule mod_rewrite.c&gt;" />
+            <marker date="1531418450000" expanded="true" signature="16153:16346" ph="&lt;IfModule mod_rewrite.c&gt;" />
+            <marker date="1531418450000" expanded="true" signature="16943:17376" ph="&lt;IfModule mod_rewrite.c&gt;" />
+            <marker date="1531418450000" expanded="true" signature="21866:21925" ph="&lt;IfModule mod_autoindex.c&gt;" />
+            <marker date="1531418450000" expanded="true" signature="22675:22916" ph="&lt;IfModule mod_rewrite.c&gt;" />
+            <marker date="1531418450000" expanded="true" signature="23583:23905" ph="&lt;FilesMatch &quot;(^##.*##|\.(bak|conf|dist|fla|in[ci]|log|psd|sh|sql|sw[op])|~)$&quot;&gt;" />
+            <marker date="1531418450000" expanded="true" signature="25898:25982" ph="&lt;IfModule mod_headers.c&gt;" />
+            <marker date="1531418450000" expanded="true" signature="29313:29379" ph="&lt;IfModule mod_headers.c&gt;" />
+            <marker date="1531418450000" expanded="true" signature="30799:34559" ph="&lt;IfModule mod_deflate.c&gt;" />
+            <marker date="1531418450000" expanded="true" signature="35900:35958" ph="&lt;IfModule mod_headers.c&gt;" />
+            <marker date="1531418450000" expanded="true" signature="36462:39899" ph="&lt;IfModule mod_expires.c&gt;" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -583,6 +649,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-910">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1531847924000" expanded="true" signature="2325:2473" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="2325:2496" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="2535:2908" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="2574:2885" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="2962:3169" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="3014:3150" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="3244:4941" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="3276:4926" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="3500:4664" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="3549:3785" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="3588:3762" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="3834:4070" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="3873:4047" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="4119:4355" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="4158:4332" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="4404:4645" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="4443:4622" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="4699:4906" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="4751:4887" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="4992:5654" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="5024:5639" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="5248:5624" ph="..." />
+            <marker date="1531847924000" expanded="false" signature="5523:5538" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="5687:6242" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="5725:6228" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="5760:5965" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="5786:5946" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="6000:6103" ph="..." />
+            <marker date="1531847924000" expanded="true" signature="6142:6213" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/html/includes/content-thanks-contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/html/includes/content-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="60" lean-forward="false" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/scss/partials/sections.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="241" column="19" lean-forward="false" selection-start-line="236" selection-start-column="0" selection-end-line="246" selection-end-column="1" />
           <folding />
         </state>
       </provider>
