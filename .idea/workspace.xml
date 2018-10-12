@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0eb45ce6-50db-4989-b1b1-ee74cd0736e5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/app.css" afterPath="$PROJECT_DIR$/web/css/app.css" />
-    </list>
+    <list default="true" id="0eb45ce6-50db-4989-b1b1-ee74cd0736e5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -101,8 +98,8 @@
     <handled-path value="$PROJECT_DIR$/build/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="304" />
-    <option name="y" value="80" />
+    <option name="x" value="379" />
+    <option name="y" value="87" />
     <option name="width" value="1451" />
     <option name="height" value="1204" />
   </component>
@@ -208,7 +205,7 @@
       <workItem from="1531848221766" duration="316000" />
       <workItem from="1531848678194" duration="246000" />
       <workItem from="1531915991918" duration="730000" />
-      <workItem from="1537184806146" duration="637000" />
+      <workItem from="1537184806146" duration="733000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1531161049519</created>
@@ -322,14 +319,21 @@
       <option name="project" value="LOCAL" />
       <updated>1537185624600</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added button group css">
+      <created>1537185744488</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1537185744488</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9850000" />
+    <option name="totallyTimeSpent" value="9946000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="304" y="80" width="1451" height="1204" extended-state="0" />
+    <frame x="379" y="87" width="1451" height="1204" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34965035" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -364,7 +368,8 @@
     <MESSAGE value="padding changes" />
     <MESSAGE value="adding google analytics" />
     <MESSAGE value="updated something else" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated something else" />
+    <MESSAGE value="added button group css" />
+    <option name="LAST_COMMIT_MESSAGE" value="added button group css" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
